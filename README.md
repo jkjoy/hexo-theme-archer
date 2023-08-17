@@ -1,15 +1,7 @@
-# hexo-theme-archer
-
-![preview](./docs/snap.png)
-
 ## 在线预览
 
-🎯 主题预览：[Demo](https://fi3ework.github.io/hexo-theme-archer)
+🎯 主题预览：[Demo](https://sunn.ee)
 
-## 文档
-
-- [English document](./docs/README-en.md)
-- [二次开发文档](./docs/develop-guide-zh.md)
 
 ## 说明
 
