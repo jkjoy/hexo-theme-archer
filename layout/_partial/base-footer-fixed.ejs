@@ -1,0 +1,16 @@
+<footer class="footer-fixed<%- is_home() ? ' index-footer-fixed' : '' %>">
+    <!-- back to top button -->
+    <div class="footer-fixed-element">
+        <% if(theme.float_button_theme === 'rounded') { %>
+            <div class="back-top back-top-hidden back-top-rounded">
+        <% } else { %>
+            <div class="back-top back-top-hidden">
+        <% } %>
+        <% if(theme.float_button_theme === 'rounded') { %>
+            <i class="fas fa-chevron-up"></i>
+        <% } else { %>
+            <div>&#xe639;</div>
+        <% } %>
+        </div>
+        <script async src="https://umami.ima.cm/script.js" data-website-id="e1bf1401-2f6c-422b-8ee1-5011c2e682b7"></script>
+</footer>
