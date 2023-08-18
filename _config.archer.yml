@@ -154,7 +154,8 @@ comment:
   utteranc_label: 
   utteranc_theme: 
   utteranc_issue_term: 
-  # twikoo site:
+  # twikoo  site: http://twikoo.js.org
+  twikoo_envId: 
 
 # ========== Analytics ========== #
 # enable Busuanzi analytics
