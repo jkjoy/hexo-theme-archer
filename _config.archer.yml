@@ -154,6 +154,7 @@ comment:
   utteranc_label: 
   utteranc_theme: 
   utteranc_issue_term: 
+  # twikoo site:
 
 # ========== Analytics ========== #
 # enable Busuanzi analytics
@@ -168,7 +169,9 @@ baidu_analytics:
 google_analytics: 
 # CNZZ analytics
 CNZZ_analytics: 
-
+# umami analytics 
+umami_analytics_url: https://u.ima.cm
+umami_analytics: 25a8fc7d-e97c-4163-a5e5-fa375f41a57d #Website ID
 # ========== Others ========== #
 # Favicon
 favicon: /assets/favicon.ico
